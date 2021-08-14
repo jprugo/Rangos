@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B439F370-56C2-4D5F-8E42-19B7D0DFB201}|Default">
+  <MonoDevelop.Ide.ItemProperties.Rangos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Linea.cs" Line="50" Column="50" />
+      <File FileName="Service.cs" Line="24" Column="42" />
+      <File FileName="Program.cs" Line="13" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rangos" expanded="True">
+            <Node name="Rangos" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

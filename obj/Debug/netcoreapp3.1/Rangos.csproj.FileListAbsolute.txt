@@ -1,0 +1,11 @@
+/Users/juanrueda/Documents/GitHub/Rangos/bin/Debug/netcoreapp3.1/Rangos.deps.json
+/Users/juanrueda/Documents/GitHub/Rangos/bin/Debug/netcoreapp3.1/Rangos.runtimeconfig.json
+/Users/juanrueda/Documents/GitHub/Rangos/bin/Debug/netcoreapp3.1/Rangos.runtimeconfig.dev.json
+/Users/juanrueda/Documents/GitHub/Rangos/bin/Debug/netcoreapp3.1/Rangos.dll
+/Users/juanrueda/Documents/GitHub/Rangos/bin/Debug/netcoreapp3.1/Rangos.pdb
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.AssemblyInfoInputs.cache
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.AssemblyInfo.cs
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.csproj.CoreCompileInputs.cache
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.dll
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.pdb
+/Users/juanrueda/Documents/GitHub/Rangos/obj/Debug/netcoreapp3.1/Rangos.genruntimeconfig.cache
